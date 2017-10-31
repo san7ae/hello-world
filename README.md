@@ -1,2 +1,5 @@
 # hello-world
-Here comes the short description.
+
+Hi fellow Humans!!
+
+It's me Sanjae. Working full time as a Living being.
